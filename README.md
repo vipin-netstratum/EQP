@@ -1,2 +1,2 @@
-# adecEQP
+# EQP
 Shool Management Application
